@@ -33,6 +33,24 @@ Me chamo Vitor Rossi, tenho 22 anos e sou de São Paulo. Concluí o ensino médi
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png"
+/>
+
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" 
+/>
+
 
 <br/>
 <br/>
