@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👨🏾‍💻 Vitor Rossi
 
-<!--
-**vrossidavid-hub/vrossidavid-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Scientist`**
 
-Here are some ideas to get you started:
+Me chamo Vitor Rossi, tenho 22 anos e sou de São Paulo. Concluí o ensino médio técnico em Informática para Internet na FITO e me formei em Data Science pela FIAP em 2022. Trabalhei por 4 anos no Mercado Livre, atuando como Jovem Aprendiz em TI e depois sendo efetivado em Customer Experience (CX). Sou apaixonado por tecnologia e dados, com perfil analítico, boa comunicação e foco em trabalhar em equipe e projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="SQL"
+    title="AQL" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+/>
+
+
+<br/>
+<br/>
