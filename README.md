@@ -2,7 +2,7 @@
 
 **`Data Scientist`**
 
-Me chamo Vitor Rossi, tenho 22 anos e sou de São Paulo. Concluí o ensino médio técnico em Informática para Internet na FITO e me formei em Data Science pela FIAP em 2022. Trabalhei por 4 anos no Mercado Livre, atuando como Jovem Aprendiz em TI e depois sendo efetivado em Customer Experience (CX). Sou apaixonado por tecnologia e dados, com perfil analítico, boa comunicação e foco em trabalhar em equipe e projetos.
+Me chamo Vitor Rossi, tenho 21 anos e sou de São Paulo. Concluí o ensino médio técnico em Informática para Internet na FITO e me formei em Data Science pela FIAP em 2022. Trabalhei por 4 anos no Mercado Livre, atuando como Jovem Aprendiz em TI e depois sendo efetivado em Customer Experience (CX). Sou apaixonado por tecnologia e dados, com perfil analítico, boa comunicação e foco em trabalhar em equipe e projetos.
 
 ---
 
